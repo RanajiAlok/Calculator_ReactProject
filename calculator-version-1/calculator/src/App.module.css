@@ -1,0 +1,22 @@
+.heading{
+  display: flex;
+  justify-content: center;
+}
+
+.mainBody{
+  justify-content: center;
+  display: flex;
+}
+
+.calculator{
+  justify-content: center;
+  border: 1px solid rgb(94, 93, 93);
+  width: 200px;
+  border-radius: 5px;
+  background-color: rgb(60, 59, 59);
+}
+
+
+
+
+
